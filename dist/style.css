@@ -1,0 +1,20 @@
+h1 {
+                color: rgb(46, 29, 227);
+            }
+            h2 {
+                background-color: rgb(54, 141, 168);
+            }
+            h3 {
+                background-color: rgb(135, 153, 22);
+            }
+            .coventry {
+                background-color: pink;
+            }
+            #come-and-see {
+                background-color: yellow;
+            }
+            .img_center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
